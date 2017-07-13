@@ -1,0 +1,3 @@
+远程仓库 com:写自己的用户名
+git remote add origin git@github.com:hqyxd/demo.git
+
